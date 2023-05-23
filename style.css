@@ -1,0 +1,48 @@
+html {
+    background-color: rgb(102, 25, 153);
+}
+
+main {
+    color: aliceblue;
+}
+
+header {
+    background-color: rgb(34, 12, 94);
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.lista-1 {
+    list-style: none;
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: aliceblue;
+}
+
+ul.booklist li {
+    padding-bottom: 2ex;
+}
+
+div.rainbowbooks {
+    display: flex;
+    justify-content: center;
+}
+
+.enlace-sin-subrayado {
+    text-decoration: none;
+}
+
+
+
+
+footer {
+    background-color: rgb(34, 12, 94);
+    padding: 12px;
+}
+
+footer p {
+    width: 60%;
+    margin: auto;
+}
